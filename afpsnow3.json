@@ -1,0 +1,352 @@
+{
+  "artist": {
+    "ANDEY TOPCHY(18:00-19:00)": {
+      "date": "22 марта",
+      "locate": "1170  м",
+      "time": "18:00",
+      "name": "dj tets"
+    },
+    "GIORGI POLIASKAS (18:00-19:00)": {
+      "date": "22 марта",
+      "locate": "1170 m.",
+      "time": "18:00",
+      "name": "dj her"
+    },
+    "ДАРЬЯ ЯСТРУБИЦКАЯ (19:00-20:00)": {
+      "date": "22 марта",
+      "locate": "1170 m.",
+      "time": "19:00",
+      "name": "dj her"
+    },
+    "ДИМА (19:00-20:00)": {
+      "date": "22 марта",
+      "locate": "1170 m.",
+      "time": "19:00",
+      "name": "dj her"
+    },
+    "КАМАРОВСКИЙ (19:00-20:00)": {
+      "date": "22 марта",
+      "locate": "1170 m.",
+      "time": "19:00",
+      "name": "dj her"
+    },
+    "GOING DEEPER (20:00-21:00)": {
+      "date": "22 марта",
+      "locate": "1170 m.",
+      "time": "20:00",
+      "name": "dj her"
+    },
+    "BORIS WAY (22:00-23:00) ": {
+      "date": "22 марта",
+      "locate": "ЛЕДОВЫЙ ДВОРЕЦ",
+      "time": "22:00",
+      "name": "dj her"
+    },
+    "VANOTEK (23:00-00:00)": {
+      "date": "22 марта",
+      "locate": "ЛЕДОВЫЙ ДВОРЕЦ",
+      "time": "23:00",
+      "name": "dj her"
+    },
+    "SHUNGUY (00:00-01:00)": {
+      "date": "22 марта",
+      "locate": "ЛЕДОВЫЙ ДВОРЕЦ",
+      "time": "00:00",
+      "name": "dj her"
+    },
+    "KUSH KUSH (01:00-02:00)": {
+      "date": "22 марта",
+      "locate": "ЛЕДОВЫЙ ДВОРЕЦ",
+      "time": "01:00",
+      "name": "dj her"
+    },
+    "БРИГАДА У (11:00-13:00)": {
+      "date": "23 марта",
+      "locate": "1170 m.",
+      "time": "11:00",
+      "name": "dj her"
+    },
+    "VION KONGER (13:00-14:00)": {
+      "date": "23 марта",
+      "locate": "1170 m.",
+      "time": "13:00",
+      "name": "dj her"
+    },
+    "KITONE (13:00-14:00)": {
+      "date": "23 марта",
+      "locate": "1170 m.",
+      "time": "13:00",
+      "name": "dj her"
+    },
+    "SIBIR (14:00-15:00)": {
+      "date": "23 марта",
+      "locate": "1170 m.",
+      "time": "14:00",
+      "name": "dj her"
+    },
+    "ENZY (15:00-16:00) ": {
+      "date": "23 марта",
+      "locate": "1170 m.",
+      "time": "15:00",
+      "name": "dj her"
+    },
+    "BASKY (16:00-17:00)": {
+      "date": "23 марта",
+      "locate": "1170 m.",
+      "time": "16:00",
+      "name": "dj her"
+    },
+    "NOVAK (11:30-12:30)": {
+      "date": "23 марта",
+      "locate": "1600 m.",
+      "time": "11:30",
+      "name": "dj her"
+    },
+    "BIICLA (12:30-13:30) ": {
+      "date": "23 марта",
+      "locate": "1600 m.",
+      "time": "12:30",
+      "name": "dj her"
+    },
+    "PHLEGMATIC DOGS (13:30-14:30)": {
+      "date": "23 марта",
+      "locate": "1600 m.",
+      "time": "13:30",
+      "name": "dj her"
+    },
+    "PROXY (14:30-15:30)": {
+      "date": "23 марта",
+      "locate": "1600 m.",
+      "time": "14:30",
+      "name": "dj her"
+    },
+    "NOVAK B2B (15:30-16:30) ": {
+      "date": "23 марта",
+      "locate": "1600 m.",
+      "time": "15:30",
+      "name": "dj her"
+    },
+    "BIICLA B2B (15:30-16:30) ": {
+      "date": "23 марта",
+      "locate": "1600 m.",
+      "time": "15:30",
+      "name": "dj her"
+    },
+    "PHLEGMATIC DOGS B2B (15:30-16:30)": {
+      "date": "23 марта",
+      "locate": "1600 m.",
+      "time": "15:30",
+      "name": "dj her"
+    },
+    "PROXY B2B (15:30-16:30) ": {
+      "date": "23 марта",
+      "locate": "1600 m.",
+      "time": "15:30",
+      "name": "dj her"
+    },
+    "INDIGO MINDS (11:30-13:30) ": {
+      "date": "23 марта",
+      "locate": "2320 m.",
+      "time": "11:30",
+      "name": "dj her"
+    },
+    "SEXTON (13:30-15:30)": {
+      "date": "23 марта",
+      "locate": "2320 m.",
+      "time": "13:30",
+      "name": "dj her"
+    },
+    "TOKI FUKO - LIVE (15:30-16:30)": {
+      "date": "23 марта",
+      "locate": "2320 m.",
+      "time": "15:30",
+      "name": "dj her"
+    },
+    "EM&LEE DJS (19:00-19:30)": {
+      "date": "23 марта",
+      "locate": "DJ ПАРАД",
+      "time": "19:00",
+      "name": "dj her"
+    },
+    "DJ NOIZ (19:30-20:00) ": {
+      "date": "23 марта",
+      "locate": "DJ ПАРАД",
+      "time": "19:30",
+      "name": "dj her"
+    },
+    "KIT SUNDERS (19:30-20:00)": {
+      "date": "23 марта",
+      "locate": "DJ ПАРАД",
+      "time": "19:30",
+      "name": "dj her"
+    },
+    "STAN WILLIAMS (20:00-20:30)": {
+      "date": "23 марта",
+      "locate": "DJ ПАРАД",
+      "time": "20:00",
+      "name": "dj her"
+    },
+    "BEVERLY PILLS (20:30-21:00)": {
+      "date": "23 марта",
+      "locate": "DJ ПАРАД",
+      "time": "20:30",
+      "name": "dj her"
+    },
+    "GRZ FEAT. D.FEDOROV (21:00-21:30)": {
+      "date": "23 марта",
+      "locate": "DJ ПАРАД",
+      "time": "21:00",
+      "name": "dj her"
+    },
+    "TBA (21:30-22:00)": {
+      "date": "23 марта",
+      "locate": "DJ ПАРАД",
+      "time": "21:30",
+      "name": "dj her"
+    },
+    "GOING DEEPER (22:00-23:30)": {
+      "date": "23 марта",
+      "locate": "2350 m.",
+      "time": "22:00",
+      "name": "dj her"
+    },
+    "PHLEGMATIC DOGS (23:30-01:00) ": {
+      "date": "23 марта",
+      "locate": "РОЗА ХОЛЛ",
+      "time": "23:30",
+      "name": "dj her"
+    },
+    "APASHE (01:00-02:30)": {
+      "date": "23 марта",
+      "locate": "РОЗА ХОЛЛ",
+      "time": "01:00",
+      "name": "dj her"
+    },
+    "CHASE & STATUS (02:30-04:00)": {
+      "date": "23 марта",
+      "locate": "РОЗА ХОЛЛ",
+      "time": "02:30",
+      "name": "dj her"
+    },
+    "ZESKULLZ (04:00-05:30)": {
+      "date": "23 марта",
+      "locate": "РОЗА ХОЛЛ",
+      "time": "04:00",
+      "name": "dj her"
+    },
+    "SAMIR KULIEV (11:30-12:30)": {
+      "date": "24 марта",
+      "locate": "1170 m.",
+      "time": "11:30",
+      "name": "dj her"
+    },
+    "KATE (12:30-13:30)": {
+      "date": "24 марта",
+      "locate": "1170 m.",
+      "time": "12:30",
+      "name": "dj her"
+    },
+    "FONAREV (13:30-14:30)": {
+      "date": "24 марта",
+      "locate": "1170 m.",
+      "time": "13:30",
+      "name": "dj her"
+    },
+    "ALEXANDER POPOV (14:30-15:30)": {
+      "date": "24 марта",
+      "locate": "1170 m.",
+      "time": "14:30",
+      "name": "dj her"
+    },
+    "FEEL (15:30-16:30)": {
+      "date": "24 марта",
+      "locate": "1170 m.",
+      "time": "15:30",
+      "name": "dj her"
+    },
+    "МЕДЖИКУЛ (17:30-19:00)": {
+      "date": "24 марта",
+      "locate": "1170 m.",
+      "time": "17:30",
+      "name": "dj her"
+    },
+    "MAIB (11:30-12:30)": {
+      "date": "24 марта",
+      "locate": "1600 m.",
+      "time": "11:30",
+      "name": "dj her"
+    },
+    "BLAZETV (12:30-13:30) ": {
+      "date": "24 марта",
+      "locate": "1600 m.",
+      "time": "12:30",
+      "name": "dj her"
+    },
+    "BOMUZIK (12:30-13:30)": {
+      "date": "24 марта",
+      "locate": "1600 m.",
+      "time": "12:30",
+      "name": "dj her"
+    },
+    "ARIA FREDDA (13:30-14:30)": {
+      "date": "24 марта",
+      "locate": "1600 m.",
+      "time": "13:30",
+      "name": "dj her"
+    },
+    "BASSKING (13:30-14:30)": {
+      "date": "24 марта",
+      "locate": "1600 m.",
+      "time": "13:30",
+      "name": "dj her"
+    },
+    "NASLED & LARS (14:30-15:30) ": {
+      "date": "23 марта",
+      "locate": "1600 m.",
+      "time": "14:30",
+      "name": "dj her"
+    },
+    "ENZY (14:30-15:30) ": {
+      "date": "24 марта",
+      "locate": "1600 m.",
+      "time": "14:30",
+      "name": "dj her"
+    },
+    "ZESKULLZ (15:30-16:30) ": {
+      "date": "24 марта",
+      "locate": "1600 m.",
+      "time": "15:30",
+      "name": "dj her"
+    },
+    "MC 47TH (11:30-16:30)": {
+      "date": "24 марта",
+      "locate": "1600 m.",
+      "time": "11:30",
+      "name": "dj her"
+    },
+    "BYKI (11:30-12:50)": {
+      "date": "24 марта",
+      "locate": "2320 m.",
+      "time": "11:30",
+      "name": "dj her"
+    },
+    "GAMBRINO SOUND (12:50-14:10)": {
+      "date": "24 марта",
+      "locate": "2320 m.",
+      "time": "12:50",
+      "name": "dj her"
+    },
+    "DJ NAZIN (14:10-15:30)": {
+      "date": "24 марта",
+      "locate": "2320 m.",
+      "time": "14:10",
+      "name": "dj her"
+    },
+    "GMG (15:30-16:50)": {
+      "date": "24 марта",
+      "locate": "2320 m.",
+      "time": "15:30",
+      "name": "dj her"
+    }
+  }
+}
